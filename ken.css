@@ -1,0 +1,31 @@
+.blkhd {
+  margin: 0px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+  list-style-type: none;
+  background-color: #6666ff;
+  color: black;
+}
+.act {
+  color: black;
+  background-color: lightgray;
+}
+.blk {
+  font-family: sans-serif;
+  display: inline-block;
+  padding: 5px;
+}
+.blk:hover {
+  background-color: lightgray;
+  color: blue;
+}
+.green {
+  background-image: url(http://apk.li/branch.jpg);
+  color: white;
+}
+.undec {
+  text-decoration: none;
+}
+body {
+  margin: 0pt;
+}

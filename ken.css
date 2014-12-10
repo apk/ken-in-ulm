@@ -14,17 +14,24 @@
   font-family: sans-serif;
   display: inline-block;
   padding: 5px;
+  color: black;
 }
 .blk:hover {
   background-color: lightgray;
-  color: blue;
 }
 .green {
   background-image: url(http://apk.li/branch.jpg);
+  background-position: -150px -20px;
+}
+.green a {
   color: white;
+}
+.green a:hover {
+  color: black;
 }
 .undec {
   text-decoration: none;
+  color: black;
 }
 body {
   margin: 0pt;

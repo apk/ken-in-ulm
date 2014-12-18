@@ -1,9 +1,8 @@
 .blkhd {
   margin: 0px;
-  margin-bottom: 10px;
   border-bottom: 1px solid black;
   list-style-type: none;
-  background-color: #6666ff;
+  background-color: #6699ff;
   color: black;
 }
 .act {
@@ -35,4 +34,8 @@
 }
 body {
   margin: 0pt;
+}
+.bodybox {
+  margin: 8px;
+  margin-top: 18px;
 }
